@@ -7,8 +7,8 @@
     
     <modelVersion>4.0.0</modelVersion>
     
-	<name>Fuse Features</name>
-	<description>Parent for Fuse Features</description>
+    <name>Fuse Features</name>
+    <description>Parent for Fuse Features</description>
 
     <groupId>com.jyore.fuse</groupId> 
     <artifactId>features</artifactId>
@@ -16,7 +16,7 @@
     <packaging>pom</packaging>
 
 
-	<modules>
-		<module>hibernate4</module>
-	</modules>
+    <modules>
+        <module>hibernate4</module>
+    </modules>
 </project>
